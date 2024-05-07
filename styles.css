@@ -66,6 +66,10 @@ h2 {
     margin-bottom: 5px;
 }
 
+.item-title, .item-price {
+    text-align: center;
+}
+
 @media screen and (max-width: 560px) {
     iframe {
         width: 450px;
