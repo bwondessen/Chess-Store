@@ -33,6 +33,11 @@ nav {
     display: inline-block;
 }
 
+h2 {
+    margin-top: 30px;
+    margin-left: 45px;
+}
+
 #sets {
     display: flex;
     justify-content: space-evenly;
@@ -50,6 +55,10 @@ nav {
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+.item-image, item-title, item-price {
+    margin: 15px;
 }
 
 @media screen and (max-width: 560px) {
