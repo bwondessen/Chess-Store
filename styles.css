@@ -27,3 +27,24 @@ nav a {
 nav {
     display: inline-block;
 }
+
+@media screen and (max-width: 560px) {
+    iframe {
+        width: 450px;
+        height: 253.13px;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    iframe {
+        width: 375px;
+        height: 210.94px;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    iframe {
+        width: 275px;
+        height: 154.69px;
+    }
+}
