@@ -38,7 +38,7 @@ h2 {
     margin-left: 45px;
 }
 
-#sets, #boards, .pieces {
+#sets, #boards, #pieces {
     display: flex;
     justify-content: space-evenly;
 }
