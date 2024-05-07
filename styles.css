@@ -57,8 +57,12 @@ h2 {
     margin-right: auto;
 }
 
-.item-image, item-title, item-price {
+.item-image {
     margin: 15px;
+}
+
+.item-title {
+    margin-bottom: 5px;
 }
 
 @media screen and (max-width: 560px) {
