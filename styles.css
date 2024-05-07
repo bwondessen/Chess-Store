@@ -38,6 +38,10 @@ nav {
     justify-content: space-evenly;
 }
 
+.chess-set {
+    margin: 30px;
+}
+
 .chess-set img {
     width: 250px;
     height: 187.50px;
