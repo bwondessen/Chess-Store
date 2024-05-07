@@ -38,20 +38,21 @@ h2 {
     margin-left: 45px;
 }
 
-#sets {
+#sets, #boards, .pieces {
     display: flex;
     justify-content: space-evenly;
 }
 
-.chess-set {
+.chess-set, .chess-board, .chess-piece {
     margin: 30px;
+    width: calc(100% / 4);
 }
 
-.chess-set img {
+.chess-set img, .chess-board img, .chess-piece img {
     width: 250px;
     height: 187.50px;
     object-fit: cover;
-    border-radius: 10px;
+    border-radius: 5px;
     display: block;
     margin-left: auto;
     margin-right: auto;
