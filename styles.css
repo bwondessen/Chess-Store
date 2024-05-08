@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    font-family: Roboto, sans-serif;
 }
 
 header {
@@ -17,6 +18,7 @@ header {
 h1 {
     text-align: center;
     padding-top: 35px;
+    font-weight: 700;
 }
 
 form {
@@ -78,17 +80,23 @@ h2 {
     margin-left: 45px;
 }
 
-#sets, #boards, #pieces {
+#sets,
+#boards,
+#pieces {
     display: flex;
     justify-content: space-evenly;
 }
 
-.chess-set, .chess-board, .chess-piece {
+.chess-set,
+.chess-board,
+.chess-piece {
     margin: 30px;
     width: calc(100% / 4);
 }
 
-.chess-set img, .chess-board img, .chess-piece img {
+.chess-set img,
+.chess-board img,
+.chess-piece img {
     width: 250px;
     height: 187.50px;
     object-fit: cover;
@@ -106,8 +114,15 @@ h2 {
     margin-bottom: 5px;
 }
 
-.item-title, .item-price {
+.item-title,
+.item-price {
     text-align: center;
+}
+
+#video {
+    display: block;
+    margin: 0 auto;
+    padding: 100px;
 }
 
 @media screen and (max-width: 560px) {
