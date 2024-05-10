@@ -15,6 +15,14 @@ header {
     background-color: #2c2b29;
 }
 
+nav a {
+    color: unset;
+}
+
+#before-sets, #before-pieces, #before-boards {
+    height: 60px;
+}
+
 h1 {
     text-align: center;
     padding-top: 35px;
