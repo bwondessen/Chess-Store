@@ -1,7 +1,7 @@
 # Chess Store
 An Ecommerce website for all things chess related!
 
-![ChessStoreREADMEPic](https://github.com/user-attachments/assets/8c71e735-3a40-433c-863b-1300c4ec8d3a)
+![ChessStoreREADME](https://github.com/user-attachments/assets/04442a3f-970f-4f14-a2e6-b6b0dcfe7c74)
 
 ## Overview
 Since chess is a hobby of mine, I've decided to build an Ecommerce chess website.
